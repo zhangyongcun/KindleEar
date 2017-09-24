@@ -5,7 +5,7 @@ from base import BaseFeedBook
 def getBook():
     return sspai
 
-class ZhihuDaily(BaseFeedBook):
+class sspai(BaseFeedBook):
     title                 = u'少数派'
     description           = u'少数派 数码'
     language              = 'zh-cn'
