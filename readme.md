@@ -56,9 +56,8 @@ chmod +x kindleEar.sh
 【投递日志】可以查看投递的状态。由于 RSS 内容抓取需要一定的时间，所以日志可能会有延迟。
 ![](https://cdn.sspai.com/2017/08/19/c0c2ec72ff300a48c19ea53529e169b1.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
-# 许可协议
-KindleEar is licensed under the [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html) license.  
-大体的许可框架是此应用代码你可以任意使用，任意修改，可以商用，但是必须将你修改后的代码开源并保留原始版权声明。
+# License
+ [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
 
-# 捐赠
-如果你希望支持一下KindleEar，可以戳 [Wiki捐赠页面](https://github.com/cdhigh/KindleEar/wiki/Donate)
+### 如果你觉得这篇文章有所帮助，可以打赏我，价格随意。
+![](http://qn.zhangyongcun.com/blog_img/20170925164540_RuWXoL_IMG_0731.jpeg)
