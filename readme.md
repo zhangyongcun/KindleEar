@@ -58,6 +58,3 @@ chmod +x kindleEar.sh
 
 # License
  [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
-
-### 如果你觉得这篇文章有所帮助，可以打赏我，价格随意。
-![](http://qn.zhangyongcun.com/blog_img/20170925164616_9fvLNJ_IMG_0731.jpeg)
